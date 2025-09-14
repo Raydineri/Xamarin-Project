@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benot\\OneDrive\\Bureau\\Mini projet xamarin\\Ecommerce1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A92DB9DB-2F55-4D58-AE68-85D9CA74BFF0}|Ecommerce1\\Ecommerce1\\Ecommerce1.csproj|c:\\users\\benot\\onedrive\\bureau\\mini projet xamarin\\ecommerce1\\ecommerce1\\ecommerce1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92DB9DB-2F55-4D58-AE68-85D9CA74BFF0}|Ecommerce1\\Ecommerce1\\Ecommerce1.csproj|solutionrelative:ecommerce1\\ecommerce1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92DB9DB-2F55-4D58-AE68-85D9CA74BFF0}|Ecommerce1\\Ecommerce1\\Ecommerce1.csproj|c:\\users\\benot\\onedrive\\bureau\\mini projet xamarin\\ecommerce1\\ecommerce1\\ecommerce1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A92DB9DB-2F55-4D58-AE68-85D9CA74BFF0}|Ecommerce1\\Ecommerce1\\Ecommerce1.csproj|solutionrelative:ecommerce1\\ecommerce1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 601,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Mini projet xamarin\\Ecommerce1\\Ecommerce1\\Ecommerce1\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Ecommerce1\\Ecommerce1\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Mini projet xamarin\\Ecommerce1\\Ecommerce1\\Ecommerce1\\Services\\AuthService.cs",
+              "RelativeToolTip": "Ecommerce1\\Ecommerce1\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:41:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\benot\\OneDrive\\Bureau\\Mini projet xamarin\\Ecommerce1\\Ecommerce1\\Ecommerce1\\App.xaml",
+              "RelativeDocumentMoniker": "Ecommerce1\\Ecommerce1\\App.xaml",
+              "ToolTip": "C:\\Users\\benot\\OneDrive\\Bureau\\Mini projet xamarin\\Ecommerce1\\Ecommerce1\\Ecommerce1\\App.xaml",
+              "RelativeToolTip": "Ecommerce1\\Ecommerce1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T22:00:27.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1097,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

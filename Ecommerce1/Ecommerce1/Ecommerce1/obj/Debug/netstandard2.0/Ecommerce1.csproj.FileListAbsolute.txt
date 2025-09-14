@@ -1,0 +1,40 @@
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\Ecommerce1.deps.json
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\Ecommerce1.dll
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\ref\Ecommerce1.dll
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\Ecommerce1.pdb
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.csproj.AssemblyReference.cache
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\ShoppingCart.xaml.g.cs
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.AssemblyInfoInputs.cache
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.AssemblyInfo.cs
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.csproj.CoreCompileInputs.cache
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.dll
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\refint\Ecommerce1.dll
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.pdb
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\AdminTabbedPage.xaml.g.cs
+C:\Users\RAMI\source\repos\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\ProductManagementPage.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\Ecommerce1.deps.json
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\Ecommerce1.dll
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\ref\Ecommerce1.dll
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\bin\Debug\netstandard2.0\Ecommerce1.pdb
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.csproj.AssemblyReference.cache
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\AdminTabbedPage.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\ProductManagementPage.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\ShoppingCart.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.AssemblyInfoInputs.cache
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.AssemblyInfo.cs
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.csproj.CoreCompileInputs.cache
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.dll
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\refint\Ecommerce1.dll
+C:\Users\benot\OneDrive\Bureau\Mini projet xamarin\Ecommerce1\Ecommerce1\Ecommerce1\obj\Debug\netstandard2.0\Ecommerce1.pdb

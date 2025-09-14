@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ecommerce1.ShoppingCart">
+
+    <StackLayout Padding="15">
+
+        <Label Text="Your Shopping Cart"
+               FontSize="Large"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               Margin="0,20,0,10" />
+
+        <CollectionView x:Name="CartCollectionView" Margin="0,10,0,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Padding="10" Margin="0,5" CornerRadius="8" HasShadow="True" BackgroundColor="White">
+                        <Grid ColumnSpacing="10" RowSpacing="5">
+                            <Image Source="{Binding Product.Image}" 
+                                   HeightRequest="60" WidthRequest="60"
+                                   Aspect="AspectFill"
+                                   Grid.Row="0" Grid.Column="0" />
+
+                            <Label Text="{Binding Product.Name}" 
+                                   FontSize="Medium" 
+                                   VerticalOptions="Center" 
+                                   Grid.Row="0" Grid.Column="1"
+                                   FontAttributes="Bold" 
+                                   LineBreakMode="TailTruncation" 
+                                   MaxLines="2" />
+
+                            <Label Text="{Binding Product.Price, StringFormat='${0:F2}'}"
+                                   FontSize="Medium"
+                                   VerticalOptions="Center"
+                                   Grid.Row="0" Grid.Column="2" 
+                                   HorizontalOptions="EndAndExpand" />
+
+                            <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="50"/>
+                                    <ColumnDefinition Width="50"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Button Text="-"
+                                        Clicked="DecrementQuantity_Clicked"
+                                        BackgroundColor="LightGray"
+                                        Padding="8"
+                                        HorizontalOptions="Center"
+                                        VerticalOptions="Center"
+                                        BorderRadius="5"
+                                        Grid.Column="0" />
+
+                                <Label Text="{Binding Quantity}" 
+                                       FontSize="Medium" 
+                                       HorizontalOptions="Center" 
+                                       VerticalOptions="Center"
+                                       Grid.Column="1" />
+
+                                <Button Text="+"
+                                        Clicked="IncrementQuantity_Clicked"
+                                        BackgroundColor="LightGray"
+                                        Padding="8"
+                                        HorizontalOptions="Center"
+                                        VerticalOptions="Center"
+                                        BorderRadius="5"
+                                        Grid.Column="2" />
+                            </Grid>
+
+                            <!-- Minimized "Remove" Button -->
+                            <Button Text="X"
+                                    Clicked="RemoveFromCart_Clicked"
+                                    BackgroundColor="Transparent"
+                                    TextColor="Red"
+                                    Padding="0"
+                                    HorizontalOptions="End"
+                                    VerticalOptions="Start"
+                                    BorderRadius="50"
+                                    WidthRequest="30"
+                                    HeightRequest="30"
+                                    Margin="5" />
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Label x:Name="TotalPriceLabel"
+               Text="Total: $0.00"
+               FontSize="Medium"
+               FontAttributes="Bold"
+               HorizontalOptions="EndAndExpand"
+               Margin="0,20,0,0" />
+
+        <Button x:Name="CheckoutButton"
+        Text="Checkout"
+        Clicked="OnCheckoutButtonClicked"
+        BackgroundColor="Green"
+        TextColor="White"
+        FontSize="Large"
+        CornerRadius="10"
+        Margin="0,10,0,0"
+        IsEnabled="False" />
+        <!-- Commence avec le bouton désactivé -->
+
+    </StackLayout>
+
+</ContentPage>

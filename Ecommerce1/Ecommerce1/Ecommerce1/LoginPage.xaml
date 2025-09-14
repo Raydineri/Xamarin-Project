@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ecommerce1.LoginPage"
+             BackgroundColor="#F3F4F6">
+    <StackLayout Padding="25" Spacing="15">
+
+        <!-- Username Entry -->
+        <Frame CornerRadius="10" BackgroundColor="#FFFFFF" Padding="0" HasShadow="False">
+            <Entry x:Name="UsernameEntry"
+                   Placeholder="Enter email"
+                   Keyboard="Text"
+                   TextColor="#333333"
+                   PlaceholderColor="#A3A3A3"
+                   HeightRequest="45"/>
+        </Frame>
+
+        <!-- Password Entry -->
+        <Frame CornerRadius="10" BackgroundColor="#FFFFFF" Padding="0" HasShadow="False">
+            <Entry x:Name="PasswordEntry"
+                   Placeholder="Enter password"
+                   IsPassword="True"
+                   TextColor="#333333"
+                   PlaceholderColor="#A3A3A3"
+                   HeightRequest="45"/>
+        </Frame>
+
+        <!-- Login Button -->
+        <Button Text="Login"
+                Clicked="OnLoginClicked"
+                BackgroundColor="#0056D2"
+                TextColor="White"
+                CornerRadius="15"
+                HeightRequest="50"
+                Margin="0,15,0,15"/>
+
+        <!-- Result Label -->
+        <Label x:Name="ResultLabel"
+               TextColor="#D32F2F"
+               FontAttributes="Italic"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="Start"/>
+
+        <!-- Redirect to Signup Page -->
+        <Label Text="Create account "
+               FontSize="Medium"
+               TextColor="#0056D2"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="EndAndExpand">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OnNavigateToSignupClicked"/>
+            </Label.GestureRecognizers>
+        </Label>
+
+    </StackLayout>
+</ContentPage>
